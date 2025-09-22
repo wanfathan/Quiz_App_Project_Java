@@ -6,4 +6,4 @@ they are 3 main parts of the app. <br>
 2.Facts section.<br>
 3.Leaderboard section.<br>
 It was a fun project that i build for my project assignment! <br>
-Oh ya to run the app, Run the RunApp.java file Thanks :)<br>
+Oh ya to run the app, Run the StartApp.java file Thanks :)<br>
