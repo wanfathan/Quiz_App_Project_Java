@@ -6,3 +6,4 @@ Quiz section.
 2.Facts section.
 3.Leaderboard section.
 It was a fun project that i build for my project assignment! 
+Oh ya to run the app, Run the RunApp.java file Thanks :)
